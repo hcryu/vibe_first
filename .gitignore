@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 mnist_model.keras
+.DS_Store
